@@ -194,8 +194,7 @@ public class StudentMenu
 				}
 			}
 		}
-		//		System.out.println("Registration Successful"); 
-		//		is_course_registered = true;
+		is_course_registered = true;
 
 	}
 
